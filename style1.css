@@ -2,6 +2,11 @@ body{
     /* background-color: black; */
     /* background-image: url("photo-1510057622795-5c8122c2c665.avif"); */
     background-image: linear-gradient(rgb(0, 0, 0), rgb(94, 14, 223), rgb(0, 0, 0));
+    text-align: center;
+}
+.table{
+    max-width: 400px;
+    margin: auto;
 }
 th{
     color: rgb(8, 255, 247);
